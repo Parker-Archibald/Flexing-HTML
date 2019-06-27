@@ -1,0 +1,32 @@
+.test {
+    display: flex;
+    background-color: blue; 
+}
+.menu {
+    background-color: gray;
+    display: flex;
+}
+.btn:hover {
+    display: flex;
+    font-size: 24px;
+    flex: 3;
+}
+.image {
+    display: flex;
+    border: 5px solid green
+}
+p {
+    display: flex;
+    color: black;
+}
+body {
+    flex: 1;
+}
+section {
+    flex-direction: row;
+    display: flex;
+    flex: 5;
+}
+fieldset {
+    background-color: yellow;
+}
